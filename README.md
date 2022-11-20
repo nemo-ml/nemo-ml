@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on C++ CAD Develpment
 - 🌱 Basic Knowledge of python and SQL
 - 🤝 I’m looking to collaborate on C++, CAD , open cascade and Data Science
-- 💻 I'm actively looking for **Software Developer** or **C++ Developer** Job
+- 💻 I'm actively looking for **Software Developer** or **C++ Developer** Role
 
 Connect with me on:
 
