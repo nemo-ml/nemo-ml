@@ -1,9 +1,9 @@
 ### Hi there I'm Mohd Naimuddin
 
-- 🔭 I’m currently working on CFD Projects
-- 🌱 I’m currently learning Applied AI
-- 🤝 I’m looking to collaborate on Data Science, Machine learning and Deep Learning.
-- 💻 I'm actively looking for an **internship** in **Data Analyst or Data Scitentist** domain.
+- 🔭 I’m currently working on C++ CAD Develpment
+- 🌱 Basic Knowledge of python and SQL
+- 🤝 I’m looking to collaborate on C++, CAD , open cascade and Data Science
+- 💻 I'm actively looking for **Software Developer** or **C++ Developer** Job
 
 Connect with me on:
 
