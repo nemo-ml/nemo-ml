@@ -1,6 +1,6 @@
 ### Hi there I'm Mohd Naimuddin
 
-- 🔭 I’m currently working on C++ CAD Develpment. I want to be a C++ Developer.
+- 🔭 I’m currently working on CAD Develpment using C++ and opencascade libraries <a href="https://dev.opencascade.org/about/project_overview">. I want to be a C++ Developer.
 - 🌱 Basic Knowledge of python and SQL
 - 🤝 I’m looking to collaborate on C++, CAD , open cascade and Data Science
 - 💻 I'm actively looking for **Software Developer** or **C++ Developer** Role
